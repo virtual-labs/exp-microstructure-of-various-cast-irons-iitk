@@ -27,10 +27,9 @@ Properties of Cast Iron: Cast iron exhibits a wide range of properties, making i
 5. <b>Manufacturing Process:</b> Different manufacturing processes, such as grey or ductile iron casting, result in distinct microstructures and properties.<br>
 In short, cast iron's microstructure and properties result from a delicate balance between alloy composition, manufacturing processes, and heat treatment. Its versatility, from wear-resistant white iron to vibration-damping grey iron and tough ductile iron, makes it indispensable in various industries. Understanding the microstructure-property relationships of cast iron is crucial for selecting the right material for specific applications and optimizing its performance. As technology advances, the development of new cast iron alloys and manufacturing techniques continues to expand the possibilities for this remarkable material. <br><br>
 <b>Important alloying elements and their functions:</b><br>
-<table bord="1" width="500">
 <tr>
-<th width="40%">Alloying elements  </th>
-<th width="40%">Range of percentages   </th>
+<th width="30%">Alloying elements  </th>
+<th width="30%">Range of percentages   </th>
 <th width="50%">  Important functions </th>
 </tr>
 <tr>
