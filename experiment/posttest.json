@@ -85,24 +85,6 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    },
-    {
-      "question": "6. Assertion: Poor machinability of grey cast iron is due to the presence of graphite flakes
-      Reason: Graphite flakes have good damping capacity and act as a chip breaker to lubricate tools and machines.", 
-      "answers": {
-        "a": "Both assertion and reason are true, and the reason is true, and reason is a correct explanation of assertion.",
-        "b": "Both assertion and reason are true, and the reason is true, but reason is not a correct explanation of assertion.",
-        "c": "Assertion is true, but reason is false.",
-        "d": "Reason is true, but assertion is false."
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
     }
   ]
 }
