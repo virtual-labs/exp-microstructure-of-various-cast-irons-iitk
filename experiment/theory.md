@@ -1,5 +1,5 @@
 Referring to the iron-carbon phase diagram of the previous virtual lab (experiment 6), Cast iron is primarily composed of iron (Fe) with a significant proportion of carbon (C > 2.1 wt.%) and other alloying elements. The microstructure of cast iron is typically characterized by the presence of graphite flakes or nodules embedded in the ferrite matrix and/or cementite. Depending on the processing parameters, the microstructure can vary significantly, leading to different types of cast iron, including grey iron, white iron, and ductile iron.<br>
-<image src="images/image1.PNG>"> <br>
+<image src="images/image1.png>"> <br>
 ●	<b>Gray Iron:</b> Gray Iron is one of the most common forms of cast iron. Its microstructure consists of graphite flakes dispersed throughout a matrix of ferrite and pearlite. The graphite flakes provide excellent lubrication and vibration-damping properties, making grey iron suitable for applications like engine blocks and pipes.<br>
 ●	<b>White Iron:</b> White iron has a different microstructure, with most carbon present as cementite (Fe₃C) rather than graphite. This results in a white, hard, and brittle material. White iron is exceptionally wear-resistant, making it suitable for grinding balls and crusher liners.<br>
 ●	<b>Ductile Iron:</b> Ductile iron, also known as nodular or spheroidal graphite iron, features graphite nodules rather than flakes in its microstructure. This nodular graphite increases ductility and toughness compared to grey or white iron. Ductile iron is used in applications requiring a combination of strength, ductility, and wear resistance, such as automotive components and pipes.<br>
@@ -35,12 +35,45 @@ In short, cast iron's microstructure and properties result from a delicate balan
 </tr>
 <td>Sulfur</td>
 <td>< 0.33</td>
-<td>Improves machinability, reduces weldability and ductility</td>
+<td>Improves machinability, reduces weldability and ductility</td><br>
 <td>Phosphorus</td>
 <td>< 0.12</td>
-<td>Improves machinability and reduces impact strengths at lower temperatures.</td>
+<td>Improves machinability and reduces impact strengths at lower temperatures.</td><br>
 <td>Silicon</td>
 <td>1.5 – 2.5</td>
-<td>IRemoves oxygen from molten metal, improves strength and toughness, increases hardenability magnetic permeability.</td>
+<td>Removes oxygen from molten metal, improves strength and toughness, increases hardenability magnetic permeability.</td><br>
+<td>Manganese</td>
+<td>0.5 – 2.0</td>
+<td>Increases hardenability and reduces adverse effects of Sulphur</td><br>
+<td>Nickel</td>
+<td>1.0 – 5.0</td>
+<td>Increases toughness and impact strength at lower temperatures</td><br>
+<td>Chromium</td>
+<td>0.5 – 4.0</td>
+<td>Improves resistance to oxidation and corrosion, increases high-temperature strength</td><br>
+<td>Molybdenum</td>
+<td>0.1 – 0.4</td>
+<td>Improves hardenability, enhances the effects of the other alloying elements, eliminates temper embrittlement, and improves red hardness and wear resistance.</td><br>
+<td>Tungsten</td>
+<td>2.0 – 3.0</td>
+<td>Improves hardenability, enhances the effects of the other alloying elements, eliminates temper embrittlement, and improves red hardness and wear resistance.</td><br>
+<td>Vanadium</td>
+<td>0.1 – 0.3</td>
+<td>Improves hardness, increases wear and fatigue resistance</td><br>
+<td>Titanium</td>
+<td>< 1.0</td>
+<td>Improves strength and corrosion resistance</td><br>
+<td>Copper</td>
+<td>0.15 – 0.25</td>
+<td>Improves strength, corrosion resistance and hardness</td><br>
+<td>Aluminium</td>
+<td>0.01 – 0.06</td>
+<td>Removes oxygen from molten metal</td><br>
+<td>Boron</td>
+<td>0.001 – 0.05</td>
+<td>Increases hardenability</td><br>
+<td>Lead</td>
+<td>< 0.35</td>
+<td>Increases machinability</td><br>
 </table>
 
