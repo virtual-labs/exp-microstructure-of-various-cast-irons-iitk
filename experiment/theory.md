@@ -26,83 +26,22 @@ Referring to the iron-carbon phase diagram of the previous virtual lab (experime
 4. <b>Cooling Rate:</b> The cooling rate during casting affects the microstructure, with slower cooling favoring graphite formation.<br><br>
 5. <b>Manufacturing Process:</b> Different manufacturing processes, such as grey or ductile iron casting, result in distinct microstructures and properties.<br><br>
 In short, cast iron's microstructure and properties result from a delicate balance between alloy composition, manufacturing processes, and heat treatment. Its versatility, from wear-resistant white iron to vibration-damping grey iron and tough ductile iron, makes it indispensable in various industries. Understanding the microstructure-property relationships of cast iron is crucial for selecting the right material for specific applications and optimizing its performance. As technology advances, the development of new cast iron alloys and manufacturing techniques continues to expand the possibilities for this remarkable material. <br>
-<p>
-<table bordet="1">
-  <tr><b>Important alloying elements and their functions:</b>  </tr>
-<tr>
-<th width="15%">Alloying elements  </th>
-<th width="15%">Range of percentages </th>
-<th width="70%">Important functions </th>
-</tr>
-<tr>
-<td>Sulfur</td>
-<td>< 0.33</td>
-<td>Improves machinability, reduces weldability and ductility</td><br>
-</tr>
-<tr>
-<td>Phosphorus</td>
-<td>< 0.12</td>
-<td>Improves machinability and reduces impact strengths at lower temperatures.</td><br>
-</tr>
-<tr>
-<td>Silicon</td>
-<td>1.5 – 2.5</td>
-<td>Removes oxygen from molten metal, improves strength and toughness, increases hardenability magnetic permeability.</td><br>
-</tr>
-<tr>
-<td>Manganese</td>
-<td>0.5 – 2.0</td>
-<td>Increases hardenability and reduces adverse effects of Sulphur</td><br>
-</tr>
-<tr>
-<td>Nickel</td>
-<td>1.0 – 5.0</td>
-<td>Increases toughness and impact strength at lower temperatures</td><br>
-</tr>
-<tr>
-<td>Chromium</td>
-<td>0.5 – 4.0</td>
-<td>Improves resistance to oxidation and corrosion, increases high-temperature strength</td><br>
-</tr>
-<tr>
-<td>Molybdenum</td>
-<td>0.1 – 0.4</td>
-<td>Improves hardenability, enhances the effects of the other alloying elements, eliminates temper embrittlement, and improves red hardness and wear resistance.</td><br>
-</tr>
-<tr>
-<td>Tungsten</td>
-<td>2.0 – 3.0</td>
-<td>Improves hardenability, enhances the effects of the other alloying elements, eliminates temper embrittlement, and improves red hardness and wear resistance.</td><br>
-</tr>
-<tr>
-<td>Vanadium</td>
-<td>0.1 – 0.3</td>
-<td>Improves hardness, increases wear and fatigue resistance</td><br>
-</tr>
-<tr>
-<td>Titanium</td>
-<td>< 1.0</td>
-<td>Improves strength and corrosion resistance</td><br>
-</tr>
-<tr>
-<td>Copper</td>
-<td>0.15 – 0.25</td>
-<td>Improves strength, corrosion resistance and hardness</td><br>
-</tr>
-<tr>
-<td>Aluminium</td>
-<td>0.01 – 0.06</td>
-<td>Removes oxygen from molten metal</td><br>
-</tr>
-<tr>
-<td>Boron</td>
-<td>0.001 – 0.05</td>
-<td>Increases hardenability</td><br>
-</tr>
-<tr>
-<td>Lead</td>
-<td>< 0.35</td>
-<td>Increases machinability</td><br>
-</table>
-</p>
+### Important alloying elements and their functions:
+
+| Alloying elements | Range of percentages | Important functions |
+| --------------- | --------------- | :--------------- |
+| Sulfur | 0.33 | Improves machinability, reduces weldability and ductility |
+| Phosphorus | 0.12 | Improves machinability and reduces impact strengths at lower temperatures. |
+| Silicon | 1.5 – 2.5 | Removes oxygen from molten metal, improves strength and toughness, increases hardenability magnetic permeability |
+| Manganese | 0.5 – 2.0| Increases hardenability and reduces adverse effects of Sulphur |
+|Nickel | 1.0 – 5.0 | Increases toughness and impact strength at lower temperatures |
+|Chromium | 0.5 – 4.0 | Improves resistance to oxidation and corrosion, increases high-temperature strength |
+| Molybdenum | 0.1 – 0.4 | Improves hardenability, enhances the effects of the other alloying elements, eliminates temper embrittlement, and improves red hardness and wear resistance. |
+| Tungsten | 2.0 – 3.0 | Improves hardenability, enhances the effects of the other alloying elements, eliminates temper embrittlement, and improves red hardness and wear resistance. |
+| Vanadium | 0.1 – 0.3 | Improves hardness, increases wear and fatigue resistance |
+| Titanium |< 1.0 | Improves strength and corrosion resistance |
+|Copper | 0.15 – 0.25 | Improves strength, corrosion resistance and hardness|
+| Aluminium | 0.01 – 0.06 | Removes oxygen from molten metal |
+| Boron | 0.001 – 0.05 | Increases hardenability |
+| Lead | < 0.35 | Increases machinability|
 
