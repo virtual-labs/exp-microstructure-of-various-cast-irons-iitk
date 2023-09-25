@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Vermicular graphite is a characteristic of ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Grey cast iron ",
+        "b": "White Cast iron",
+        "c": "Ductile cast iron",
+        "d": "Compacted cast iron"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Eutectic reaction in the Fe-Fe3C phase diagram occurs at",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1539<sup>o</sup>C",
+        "b": "1395<sup>o</sup>C",
+        "c": "1147<sup>o</sup>C",
+        "d": "727<sup>o</sup>C"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +33,75 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Heavy machinery bases are made of",
+      "answers": {
+        "a": "White cast iron",
+        "b": "Grey cast iron",
+        "c": "Ductile iron",
+        "d": "Malleable iron"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The purest form of iron",
+      "answers": {
+        "a": "Cast iron",
+        "b": "Wrought iron",
+        "c": "Pig iron",
+        "d": "Grey iron"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Higher corrosion resistance can be obtained from cast iron due to which alloying addition.",
+      "answers": {
+        "a": "Carbon",
+        "b": "Manganese",
+        "c": "Silicon",
+        "d": "Phosphorus"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Assertion: Poor machinability of grey cast iron is due to the presence of graphite flakes
+      Reason: Graphite flakes have good damping capacity and act as a chip breaker to lubricate tools and machines.", 
+      "answers": {
+        "a": "Both assertion and reason are true, and the reason is true, and reason is a correct explanation of assertion.",
+        "b": "Both assertion and reason are true, and the reason is true, but reason is not a correct explanation of assertion.",
+        "c": "Assertion is true, but reason is false.",
+        "d": "Reason is true, but assertion is false."
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
