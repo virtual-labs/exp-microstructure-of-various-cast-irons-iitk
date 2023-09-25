@@ -1,5 +1,5 @@
 Referring to the iron-carbon phase diagram of the previous virtual lab (experiment 6), Cast iron is primarily composed of iron (Fe) with a significant proportion of carbon (C > 2.1 wt.%) and other alloying elements. The microstructure of cast iron is typically characterized by the presence of graphite flakes or nodules embedded in the ferrite matrix and/or cementite. Depending on the processing parameters, the microstructure can vary significantly, leading to different types of cast iron, including grey iron, white iron, and ductile iron.<br>
-<image src="images/image1.png>"> <br>
+<image src="images/image1.png"> <br>
 ●	<b>Gray Iron:</b> Gray Iron is one of the most common forms of cast iron. Its microstructure consists of graphite flakes dispersed throughout a matrix of ferrite and pearlite. The graphite flakes provide excellent lubrication and vibration-damping properties, making grey iron suitable for applications like engine blocks and pipes.<br>
 ●	<b>White Iron:</b> White iron has a different microstructure, with most carbon present as cementite (Fe₃C) rather than graphite. This results in a white, hard, and brittle material. White iron is exceptionally wear-resistant, making it suitable for grinding balls and crusher liners.<br>
 ●	<b>Ductile Iron:</b> Ductile iron, also known as nodular or spheroidal graphite iron, features graphite nodules rather than flakes in its microstructure. This nodular graphite increases ductility and toughness compared to grey or white iron. Ductile iron is used in applications requiring a combination of strength, ductility, and wear resistance, such as automotive components and pipes.<br>
@@ -27,11 +27,11 @@ Properties of Cast Iron: Cast iron exhibits a wide range of properties, making i
 5. <b>Manufacturing Process:</b> Different manufacturing processes, such as grey or ductile iron casting, result in distinct microstructures and properties.<br>
 In short, cast iron's microstructure and properties result from a delicate balance between alloy composition, manufacturing processes, and heat treatment. Its versatility, from wear-resistant white iron to vibration-damping grey iron and tough ductile iron, makes it indispensable in various industries. Understanding the microstructure-property relationships of cast iron is crucial for selecting the right material for specific applications and optimizing its performance. As technology advances, the development of new cast iron alloys and manufacturing techniques continues to expand the possibilities for this remarkable material. <br><br>
 <b>Important alloying elements and their functions:</b><br>
-<table bord="1">
+<table bord="1" width="500">
 <tr>
-<th>Alloying elements</th>
-<th>Range of percentages</th>
-<th>Important functions</th>
+<th> width=""40%">Alloying elements  </th>
+<th>  width=""40%">Range of percentages   </th>
+<th> width=""50%">  Important functions </th>
 </tr>
 <tr>
 <td>Sulfur</td>
