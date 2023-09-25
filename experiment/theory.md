@@ -24,15 +24,14 @@ Referring to the iron-carbon phase diagram of the previous virtual lab (experime
 2. <b>Alloying Elements:</b> Adding alloying elements can modify hardness, strength, and corrosion resistance.<br><br>
 3. <b>Heat Treatment:</b> Heat treatment can tailor the material's properties to specific applications.<br><br>
 4. <b>Cooling Rate:</b> The cooling rate during casting affects the microstructure, with slower cooling favoring graphite formation.<br><br>
-5. <b>Manufacturing Process:</b> Different manufacturing processes, such as grey or ductile iron casting, result in distinct microstructures and properties.<br><br>
+5. <b>Manufacturing Process:</b> Different manufacturing processes, such as grey or ductile iron casting, result in distinct microstructures and properties.<br>
 In short, cast iron's microstructure and properties result from a delicate balance between alloy composition, manufacturing processes, and heat treatment. Its versatility, from wear-resistant white iron to vibration-damping grey iron and tough ductile iron, makes it indispensable in various industries. Understanding the microstructure-property relationships of cast iron is crucial for selecting the right material for specific applications and optimizing its performance. As technology advances, the development of new cast iron alloys and manufacturing techniques continues to expand the possibilities for this remarkable material. <br>
-●	test
 <table bordet="1">
   <tr><b>Important alloying elements and their functions:</b>  </tr>
 <tr>
-<th width="15%">Alloying elements  </th>
-<th width="15%">Range of percentages </th>
-<th width="70%">Important functions </th>
+<td width="15%">Alloying elements  </td>
+<td width="15%">Range of percentages </td>
+<td width="70%">Important functions </td>
 </tr>
 <tr>
 <td>Sulfur</td>
