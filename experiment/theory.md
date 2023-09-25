@@ -27,51 +27,78 @@ Properties of Cast Iron: Cast iron exhibits a wide range of properties, making i
 5. <b>Manufacturing Process:</b> Different manufacturing processes, such as grey or ductile iron casting, result in distinct microstructures and properties.<br>
 In short, cast iron's microstructure and properties result from a delicate balance between alloy composition, manufacturing processes, and heat treatment. Its versatility, from wear-resistant white iron to vibration-damping grey iron and tough ductile iron, makes it indispensable in various industries. Understanding the microstructure-property relationships of cast iron is crucial for selecting the right material for specific applications and optimizing its performance. As technology advances, the development of new cast iron alloys and manufacturing techniques continues to expand the possibilities for this remarkable material. <br><br>
 <b>Important alloying elements and their functions:</b><br>
-<table>
+<table bord="1">
 <tr>
 <th>Alloying elements</th>
 <th>Range of percentages</th>
 <th>Important functions</th>
 </tr>
+<tr>
 <td>Sulfur</td>
 <td>< 0.33</td>
 <td>Improves machinability, reduces weldability and ductility</td><br>
+</tr>
+<tr>
 <td>Phosphorus</td>
 <td>< 0.12</td>
 <td>Improves machinability and reduces impact strengths at lower temperatures.</td><br>
+</tr>
+<tr>
 <td>Silicon</td>
 <td>1.5 – 2.5</td>
 <td>Removes oxygen from molten metal, improves strength and toughness, increases hardenability magnetic permeability.</td><br>
+</tr>
+<tr>
 <td>Manganese</td>
 <td>0.5 – 2.0</td>
 <td>Increases hardenability and reduces adverse effects of Sulphur</td><br>
+</tr>
+<tr>
 <td>Nickel</td>
 <td>1.0 – 5.0</td>
 <td>Increases toughness and impact strength at lower temperatures</td><br>
+</tr>
+<tr>
 <td>Chromium</td>
 <td>0.5 – 4.0</td>
 <td>Improves resistance to oxidation and corrosion, increases high-temperature strength</td><br>
+</tr>
+<tr>
 <td>Molybdenum</td>
 <td>0.1 – 0.4</td>
 <td>Improves hardenability, enhances the effects of the other alloying elements, eliminates temper embrittlement, and improves red hardness and wear resistance.</td><br>
+</tr>
+<tr>
 <td>Tungsten</td>
 <td>2.0 – 3.0</td>
 <td>Improves hardenability, enhances the effects of the other alloying elements, eliminates temper embrittlement, and improves red hardness and wear resistance.</td><br>
+</tr>
+<tr>
 <td>Vanadium</td>
 <td>0.1 – 0.3</td>
 <td>Improves hardness, increases wear and fatigue resistance</td><br>
+</tr>
+<tr>
 <td>Titanium</td>
 <td>< 1.0</td>
 <td>Improves strength and corrosion resistance</td><br>
+</tr>
+<tr>
 <td>Copper</td>
 <td>0.15 – 0.25</td>
 <td>Improves strength, corrosion resistance and hardness</td><br>
+</tr>
+<tr>
 <td>Aluminium</td>
 <td>0.01 – 0.06</td>
 <td>Removes oxygen from molten metal</td><br>
+</tr>
+<tr>
 <td>Boron</td>
 <td>0.001 – 0.05</td>
 <td>Increases hardenability</td><br>
+</tr>
+<tr>
 <td>Lead</td>
 <td>< 0.35</td>
 <td>Increases machinability</td><br>
