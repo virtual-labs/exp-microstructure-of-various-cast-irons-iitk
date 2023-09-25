@@ -8,7 +8,7 @@ Referring to the iron-carbon phase diagram of the previous virtual lab (experime
 
 ●	<b><u>Manufacturing Processes:</u></b> The manufacturing process strongly influences the microstructure and properties of cast iron. The key manufacturing processes for cast iron include:<br><br>
 <b>1. Melting and Casting:</b> The process begins with melting iron and other alloying elements in a furnace. Once molten, the alloy is poured into molds to form the desired shape. The cooling rate during casting plays a significant role in determining the microstructure. Slow cooling promotes the formation of graphite flakes, while rapid cooling favors the development of nodular graphite.<br><br>
-<b>2. Alloying:</b> Alloying elements, such as silicon (Si), manganese (Mn), and sulfur (S), are added to control the microstructure and properties of the cast iron. For example, Silicon promotes graphite formation, while manganese enhances strength and ductility.<br>
+<b>2. Alloying:</b> Alloying elements, such as silicon (Si), manganese (Mn), and sulfur (S), are added to control the microstructure and properties of the cast iron. For example, Silicon promotes graphite formation, while manganese enhances strength and ductility.<br><br>
 <b>3. Heat Treatment:</b> Heat treatment processes like annealing and quenching refine the microstructure and enhance properties. Annealing can soften the material by converting cementite into graphite, while quenching can increase hardness by promoting martensite formation.<br>
 
 <b><u>Properties of Cast Iron:</u></b> Cast iron exhibits a wide range of properties, making it suitable for diverse applications.<br><br>
@@ -26,11 +26,11 @@ Referring to the iron-carbon phase diagram of the previous virtual lab (experime
 4. <b>Cooling Rate:</b> The cooling rate during casting affects the microstructure, with slower cooling favoring graphite formation.<br><br>
 5. <b>Manufacturing Process:</b> Different manufacturing processes, such as grey or ductile iron casting, result in distinct microstructures and properties.<br><br>
 In short, cast iron's microstructure and properties result from a delicate balance between alloy composition, manufacturing processes, and heat treatment. Its versatility, from wear-resistant white iron to vibration-damping grey iron and tough ductile iron, makes it indispensable in various industries. Understanding the microstructure-property relationships of cast iron is crucial for selecting the right material for specific applications and optimizing its performance. As technology advances, the development of new cast iron alloys and manufacturing techniques continues to expand the possibilities for this remarkable material. <br><br>
-<b>Important alloying elements and their functions:</b><br>
+<b>Important alloying elements and their functions:</b>
 <table bordet="1">
 <tr>
 <th width="25%">Alloying elements  </th>
-<th width="25%">Range of percentages   </th>
+<th width="25%">Range of percentages </th>
 <th width="50%">  Important functions </th>
 </tr>
 <tr>
