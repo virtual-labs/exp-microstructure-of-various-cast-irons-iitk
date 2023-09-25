@@ -29,9 +29,9 @@ In short, cast iron's microstructure and properties result from a delicate balan
 <b>Important alloying elements and their functions:</b>
 <table bordet="1">
 <tr>
-<th width="25%">Alloying elements  </th>
-<th width="25%">Range of percentages </th>
-<th width="50%">Important functions </th>
+<th width="15%">Alloying elements  </th>
+<th width="15%">Range of percentages </th>
+<th width="70%">Important functions </th>
 </tr>
 <tr>
 <td>Sulfur</td>
