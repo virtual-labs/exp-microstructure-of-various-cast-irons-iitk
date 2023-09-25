@@ -6,18 +6,18 @@ Referring to the iron-carbon phase diagram of the previous virtual lab (experime
 ●	<b>Malleable Iron:</b> A white cast iron heat treated at around 920 oC followed by slow cooling to modify its microstructure. The microstructure consists of a ferrite matrix and tempered carbon. The graphite rosettes are this microstructure's unique feature, making it distinguishable from the other microstructures. They have mechanical properties intermediate between grey cast iron and ductile iron. This makes its applications specified to the areas where toughness, machinability, ductility, and malleability are required. It is used as an alternative to steel and in other applications of pipe fittings washers. <br><br>
 ●	<b>Compacted Iron:</b> These cast irons have a unique identity due to the vermicular-shaped graphite's presence, making it a semi-ductile iron. It is specifically used in areas where higher strength and lower weights than cast irons become an essential entity. They found applications in the areas of manufacturing of diesel engine blocks.<br><br>
 
-●	<b><u>Manufacturing Processes:</u></b> The manufacturing process strongly influences the microstructure and properties of cast iron. The key manufacturing processes for cast iron include:<br>
+●	<b><u>Manufacturing Processes:</u></b> The manufacturing process strongly influences the microstructure and properties of cast iron. The key manufacturing processes for cast iron include:<br><br>
 <b>1. Melting and Casting:</b> The process begins with melting iron and other alloying elements in a furnace. Once molten, the alloy is poured into molds to form the desired shape. The cooling rate during casting plays a significant role in determining the microstructure. Slow cooling promotes the formation of graphite flakes, while rapid cooling favors the development of nodular graphite.<br><br>
 <b>2. Alloying:</b> Alloying elements, such as silicon (Si), manganese (Mn), and sulfur (S), are added to control the microstructure and properties of the cast iron. For example, Silicon promotes graphite formation, while manganese enhances strength and ductility.<br>
 <b>3. Heat Treatment:</b> Heat treatment processes like annealing and quenching refine the microstructure and enhance properties. Annealing can soften the material by converting cementite into graphite, while quenching can increase hardness by promoting martensite formation.<br>
 
-<b><u>Properties of Cast Iron:</u></b> Cast iron exhibits a wide range of properties, making it suitable for diverse applications.<br>
+<b><u>Properties of Cast Iron:</u></b> Cast iron exhibits a wide range of properties, making it suitable for diverse applications.<br><br>
 <b>1. High Strength:</b> Cast iron has excellent compressive strength, making it ideal for structural components.<br><br>
 <b>2. Good Thermal Conductivity:</b> It conducts heat efficiently, making it suitable for cookware and engine components.<br><br>
 <b>3. Wear Resistance:</b> White iron and some alloyed cast irons are highly wear-resistant, making them valuable for abrasive environments.<br><br>
 <b>4. Damping Capacity:</b> Gray iron's graphite flakes provide exceptional vibration damping, making it useful in machinery and automotive applications.<br><br>
 <b>5. Corrosion Resistance:</b> Some cast iron types are corrosion-resistant due to forming a protective oxide layer.<br><br>
-<b>6. Machinability:</b> Cast iron is relatively easy to machine, making it versatile for various applications.<br>
+<b>6. Machinability:</b> Cast iron is relatively easy to machine, making it versatile for various applications.<br><br>
 
 ●	<b>Factors Influencing Properties: Several factors influence the properties of cast iron:</b><br>
 1. <b>Microstructure:</b> The type and distribution of graphite and other phases within the microstructure greatly impact properties.<br><br>
@@ -29,8 +29,8 @@ In short, cast iron's microstructure and properties result from a delicate balan
 <b>Important alloying elements and their functions:</b><br>
 <table bordet="1">
 <tr>
-<th width="30%">Alloying elements  </th>
-<th width="30%">Range of percentages   </th>
+<th width="25%">Alloying elements  </th>
+<th width="25%">Range of percentages   </th>
 <th width="50%">  Important functions </th>
 </tr>
 <tr>
