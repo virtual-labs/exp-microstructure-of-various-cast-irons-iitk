@@ -13,7 +13,7 @@ Different types of microstructural phases are found in cast iron. These include 
 <b>2. Alloying:</b> Alloying elements, such as silicon (Si), manganese (Mn), and sulfur (S), are added to control the microstructure and properties of the cast iron. For example, Silicon promotes graphite formation, while manganese enhances strength and ductility.<br><br>
 <b>3. Heat Treatment:</b> Heat treatment processes like annealing and quenching refine the microstructure and enhance properties. Annealing can soften the material by converting cementite into graphite, while quenching can increase hardness by promoting martensite formation.<br>
 
-<b><u>Properties of Cast Iron:</u></b> Cast iron exhibits a wide range of properties, making it suitable for diverse applications.<br><br>
+<b>Properties of Cast Iron:</b> Cast iron exhibits a wide range of properties, making it suitable for diverse applications.<br><br>
 <b>1. High Strength:</b> Cast iron has excellent compressive strength, making it ideal for structural components.<br><br>
 <b>2. Good Thermal Conductivity:</b> It conducts heat efficiently, making it suitable for cookware and engine components.<br><br>
 <b>3. Wear Resistance:</b> White iron and some alloyed cast irons are highly wear-resistant, making them valuable for abrasive environments.<br><br>
