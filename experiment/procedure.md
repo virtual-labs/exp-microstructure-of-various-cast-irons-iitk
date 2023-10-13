@@ -1,4 +1,4 @@
-### The procedure of the simulator of the experiment:<br>
+<b> The procedure of the simulator of the experiment:</b><br>
 1.	Polishing<br>
 2.	Etching<br>
 3.	Putting it on the microscope and focusing 
