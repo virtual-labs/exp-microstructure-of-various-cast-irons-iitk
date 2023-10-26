@@ -10,26 +10,26 @@ Different types of microstructural phases are found in cast iron. These include 
 
 ### Manufacturing Processes:
 The manufacturing process strongly influences the microstructure and properties of cast iron. The key manufacturing processes for cast iron include:<br><br>
-<b>1. Melting and Casting:</b> The process begins with melting iron and other alloying elements in a furnace. Once molten, the alloy is poured into molds to form the desired shape. The cooling rate during casting plays a significant role in determining the microstructure. Slow cooling promotes the formation of graphite flakes, while rapid cooling favors the development of nodular graphite.<br><br>
-<b>2. Alloying:</b> Alloying elements, such as silicon (Si), manganese (Mn), and sulfur (S), are added to control the microstructure and properties of the cast iron. For example, Silicon promotes graphite formation, while manganese enhances strength and ductility.<br><br>
-<b>3. Heat Treatment:</b> Heat treatment processes like annealing and quenching refine the microstructure and enhance properties. Annealing can soften the material by converting cementite into graphite, while quenching can increase hardness by promoting martensite formation.<br>
+<b>1. Melting and Casting</b><br> The process begins with melting iron and other alloying elements in a furnace. Once molten, the alloy is poured into molds to form the desired shape. The cooling rate during casting plays a significant role in determining the microstructure. Slow cooling promotes the formation of graphite flakes, while rapid cooling favors the development of nodular graphite.<br><br>
+<b>2. Alloying</b><br> Alloying elements, such as silicon (Si), manganese (Mn), and sulfur (S), are added to control the microstructure and properties of the cast iron. For example, Silicon promotes graphite formation, while manganese enhances strength and ductility.<br><br>
+<b>3. Heat Treatment</b><br> Heat treatment processes like annealing and quenching refine the microstructure and enhance properties. Annealing can soften the material by converting cementite into graphite, while quenching can increase hardness by promoting martensite formation.<br>
 
 ### Properties of Cast Iron: 
 Cast iron exhibits a wide range of properties, making it suitable for diverse applications.<br><br>
-<b>1. High Strength:</b> Cast iron has excellent compressive strength, making it ideal for structural components.<br><br>
-<b>2. Good Thermal Conductivity:</b> It conducts heat efficiently, making it suitable for cookware and engine components.<br><br>
-<b>3. Wear Resistance:</b> White iron and some alloyed cast irons are highly wear-resistant, making them valuable for abrasive environments.<br><br>
-<b>4. Damping Capacity:</b> Gray iron's graphite flakes provide exceptional vibration damping, making it useful in machinery and automotive applications.<br><br>
-<b>5. Corrosion Resistance:</b> Some cast iron types are corrosion-resistant due to forming a protective oxide layer.<br><br>
-<b>6. Machinability:</b> Cast iron is relatively easy to machine, making it versatile for various applications.<br><br>
+<b>1. High Strength</b><br> Cast iron has excellent compressive strength, making it ideal for structural components.<br><br>
+<b>2. Good Thermal Conductivity</b><br> It conducts heat efficiently, making it suitable for cookware and engine components.<br><br>
+<b>3. Wear Resistance</b><br> White iron and some alloyed cast irons are highly wear-resistant, making them valuable for abrasive environments.<br><br>
+<b>4. Damping Capacity</b><br> Gray iron's graphite flakes provide exceptional vibration damping, making it useful in machinery and automotive applications.<br><br>
+<b>5. Corrosion Resistance</b><br> Some cast iron types are corrosion-resistant due to forming a protective oxide layer.<br><br>
+<b>6. Machinability</b><br> Cast iron is relatively easy to machine, making it versatile for various applications.<br><br>
 
 ### Factors Influencing Properties: 
 Several factors influence the properties of cast iron:<br>
- <b>1. Microstructure:</b> The type and distribution of graphite and other phases within the microstructure greatly impact properties.<br><br>
- <b>2. Alloying Elements:</b> Adding alloying elements can modify hardness, strength, and corrosion resistance.<br><br>
- <b>3. Heat Treatment:</b> Heat treatment can tailor the material's properties to specific applications.<br><br>
- <b>4. Cooling Rate:</b> The cooling rate during casting affects the microstructure, with slower cooling favoring graphite formation.<br><br>
- <b>5. Manufacturing Process:</b> Different manufacturing processes, such as grey or ductile iron casting, result in distinct microstructures and properties.<br><br>
+ <b>1. Microstructure</b><br> The type and distribution of graphite and other phases within the microstructure greatly impact properties.<br><br>
+ <b>2. Alloying Elements</b><br> Adding alloying elements can modify hardness, strength, and corrosion resistance.<br><br>
+ <b>3. Heat Treatment</b><br> Heat treatment can tailor the material's properties to specific applications.<br><br>
+ <b>4. Cooling Rate</b><br> The cooling rate during casting affects the microstructure, with slower cooling favoring graphite formation.<br><br>
+ <b>5. Manufacturing Process</b><br> Different manufacturing processes, such as grey or ductile iron casting, result in distinct microstructures and properties.<br><br>
 In short, cast iron's microstructure and properties result from a delicate balance between alloy composition, manufacturing processes, and heat treatment. Its versatility, from wear-resistant white iron to vibration-damping grey iron and tough ductile iron, makes it indispensable in various industries. Understanding the microstructure-property relationships of cast iron is crucial for selecting the right material for specific applications and optimizing its performance. As technology advances, the development of new cast iron alloys and manufacturing techniques continues to expand the possibilities for this remarkable material. <br>
 ### Important alloying elements and their functions:
 
