@@ -24,7 +24,7 @@ Cast iron exhibits a wide range of properties, making it suitable for diverse ap
 <b>6. Machinability</b><br> Cast iron is relatively easy to machine, making it versatile for various applications.<br><br>
 
 ### Factors Influencing Properties: 
-Several factors influence the properties of cast iron:<br>
+<b>Several factors influence the properties of cast iron:</b><br>
  <b>1. Microstructure</b><br> The type and distribution of graphite and other phases within the microstructure greatly impact properties.<br><br>
  <b>2. Alloying Elements</b><br> Adding alloying elements can modify hardness, strength, and corrosion resistance.<br><br>
  <b>3. Heat Treatment</b><br> Heat treatment can tailor the material's properties to specific applications.<br><br>
