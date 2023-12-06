@@ -15,7 +15,7 @@ The manufacturing process strongly influences the microstructure and properties 
 <b>3. Heat Treatment</b><br> Heat treatment processes like annealing and quenching refine the microstructure and enhance properties. Annealing can soften the material by converting cementite into graphite, while quenching can increase hardness by promoting martensite formation.<br>
 
 <b> Properties of Cast Iron:</b> 
-Cast iron exhibits a wide range of properties, making it suitable for diverse applications.<br><br>
+Cast iron exhibits a wide range of properties, making it suitable for diverse applications.<br>
 <b>1. High Strength</b><br> Cast iron has excellent compressive strength, making it ideal for structural components.<br><br>
 <b>2. Good Thermal Conductivity</b><br> It conducts heat efficiently, making it suitable for cookware and engine components.<br><br>
 <b>3. Wear Resistance</b><br> White iron and some alloyed cast irons are highly wear-resistant, making them valuable for abrasive environments.<br><br>
