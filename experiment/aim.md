@@ -1,3 +1,3 @@
-<b> The current experiment aims to get deeper insights into the </b><br>
-(1) Phase diagram for cast iron and <br>
-(2) Microstructural studies of cast iron with different phase transformations
+<b> The aim of this experiment is to gain deeper insights into:</b><br>
+1. The phase diagram for cast iron <br>
+2. The microstructural characteristics of cast iron under different phase transformations
