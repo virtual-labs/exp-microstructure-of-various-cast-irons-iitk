@@ -1,0 +1,86 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which kind of heat treatment is required for making a harder material.",
+      "answers": {
+        "a": "Annealing",
+        "b": "Quenching",
+        "c": "Both options are true",
+        "d": "None of them are true."
+      },
+      "explanations": {
+        "a": "Option A is incorrect since annealing makes a material softer due to slow cooling.  <a href='www.google.com'>here</a>",
+        "b": "Option B is correct since Quenching makes a material harder due to faster cooling rates.",
+        "c": "Option C is not correct since both heat treatments serve different purposes.",
+        "d": "Option D is not correct since the correct answer is Quenching."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Range of carbon percentage in which hypo eutectic cast iron lies",
+      "answers": {
+        "a": "(2.5 - 4) %",
+        "b": "(4 – 6.7) %",
+        "c": "(0.8 – 2.1) %",
+        "d": "(0.025 – 0.8) %"
+      },
+      "explanations": {
+        "a": "Option A is correct.  <a href='www.google.com'>here</a>",
+        "b": "Option B is incorrect since it is the range of hypoeutectic cast iron.",
+        "c": "Option C is incorrect it is the range of hypereutectoid steel.",
+        "d": "Option D is not correct since it is the range of hypoeutectoid steel."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Ledeburite is a mixture of ",
+      "answers": {
+        "a": "Ferrite and cementite.",
+        "b": "Ferrite and austenite",
+        "c": "Austenite and cementite",
+        "d": "Pearlite and austenite"
+      },
+      "explanations": {
+        "a": "Option A is incorrect.  <a href='www.google.com'>here</a>",
+        "b": "Option B is incorrect.",
+        "c": "Option C is correct because ledeburite is a mixture of austenite and cementite.",
+        "d": "Option D is incorrect."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. State True or False: Ledeburite is a eutectoid mixture of austenite and cementite.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "False (Ledeburite is a eutectic mixture of austenite and cementite, and pearlite is a eutectoid mixture of ferrite and cementite)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What makes white iron extremely highly wear resistant.",
+      "answers": {
+        "a": "Pearlite",
+        "b": "Austenite",
+        "c": "Cementite",
+        "d": "Martensite"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
