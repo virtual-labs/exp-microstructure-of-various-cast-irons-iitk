@@ -1,0 +1,86 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which kind of heat treatment is required for making a harder material.",
+      "answers": {
+        "a": "Annealing",
+        "b": "Quenching",
+        "c": "Both options are true",
+        "d": "None of them are true."
+      },
+      "explanations": {
+        "a": "This is an incorrect option. Annealing softens the material",
+        "b": "This is the correct option. Quenching is the heat treatment used to increase hardness, whereas annealing results in softening of the material.",
+        "c": "This is an incorrect option. Annealing and quenching have opposite effects.",
+        "d": "This is an incorrect option. Quenching does make a material harder. Hence, it is incorrect to say “none of them are true”"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Range of carbon percentage in which hypo eutectic cast iron lies",
+      "answers": {
+        "a": "(2.5 - 4) %",
+        "b": "(4 – 6.7) %",
+        "c": "(0.8 – 2.1) %",
+        "d": "(0.025 – 0.8) %"
+      },
+      "explanations": {
+        "a": "This is the correct option. This range lies above the steel–cast iron boundary (~2.1% C) and below the eutectic composition (~4.3% C), which defines hypo-eutectic cast iron.",
+        "b": "This is an incorrect option. This range is above the eutectic composition and therefore corresponds to hyper-eutectic cast iron, not hypo-eutectic.",
+        "c": "This is an incorrect option. This carbon range falls within steels (from eutectoid to upper steel limit), not cast iron.",
+        "d": "This is an incorrect option. This range corresponds to low- and medium-carbon steels and is far below the carbon content of cast iron."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Ledeburite is a mixture of ",
+      "answers": {
+        "a": "Ferrite and cementite.",
+        "b": "Ferrite and austenite",
+        "c": "Austenite and cementite",
+        "d": "Pearlite and austenite"
+      },
+      "explanations": {
+        "a": "This is an incorrect option. This combination represents pearlite constituents after eutectoid transformation, not ledeburite.",
+        "b": "This is an incorrect option. This mixture does not occur as an invariant reaction product in the Fe–C phase diagram.",
+        "c": "This is the correct option. Ledeburite is the eutectic mixture formed at 4.3 wt.% C and 1147 °C, consisting of austenite and cementite.",
+        "d": "This is an incorrect option. Pearlite forms from eutectoid decomposition of austenite, not directly as a eutectic product."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. State True or False: Ledeburite is a eutectoid mixture of austenite and cementite.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "This is an incorrect option. Ledeburite is a eutectic mixture of austenite and cementite, not a eutectoid mixture (the eutectoid mixture is pearlite: ferrite + cementite).",
+        "b": "This is the correct option. Ledeburite is a eutectic mixture of austenite and cementite, not a eutectoid mixture (the eutectoid mixture is pearlite: ferrite + cementite)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What makes white iron extremely highly wear resistant.",
+      "answers": {
+        "a": "Pearlite",
+        "b": "Austenite",
+        "c": "Cementite",
+        "d": "Martensite"
+      },
+      "explanations": {
+        "a": "This is an incorrect option. Pearlite is a lamellar mixture of ferrite and cementite and is not hard enough to impart extreme wear resistance.",
+        "b": "This is an incorrect option. Austenite is a soft and ductile phase and does not contribute to high wear resistance.",
+        "c": "This is the correct option. White iron is highly wear resistant due to the presenceof large amounts of hard and brittle cementite (Fe3C).",
+        "d": "This is an incorrect option. Martensite forms by quenching steel, whereas white iron derives its hardness primarily from cementite, not martensite."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
