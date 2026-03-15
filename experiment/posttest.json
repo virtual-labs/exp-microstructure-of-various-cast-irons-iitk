@@ -10,10 +10,10 @@
         "d": "Compacted cast iron"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is an incorrect option. Grey cast iron contains graphite in flake form, not vermicular form.",
+        "b": "This is an incorrect option. White cast iron contains cementite and has no free graphite.",
+        "c": "This is an incorrect option. Ductile cast iron is characterized by spheroidal (nodular) graphite.",
+        "d": "This is the correct option. Compacted cast iron is characterized by vermicular (worm-like) graphite morphology."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "727<sup>o</sup>C"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is an incorrect option. This is the melting temperature of pure iron, not a eutectic reaction.",
+        "b": "This is an incorrect option. This temperature corresponds to the δ-ferrite to austenite transformation in iron.",
+        "c": "This is the correct option. The eutectic reaction (Liquid → Austenite + Cementite, i.e., ledeburite) occurs at 1147 °C and 4.3 wt.%",
+        "d": "This is an incorrect option. This is the eutectoid temperature where austenite transforms to pearlite."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Malleable iron"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is an incorrect option. White cast iron is very hard and brittle due to cementite and lacks the vibration-damping ability required for machinery bases.",
+        "b": "This is the correct option. Grey cast iron has excellent vibration damping, good machinability, and high compressive strength, making it ideal for heavy machinery bases.",
+        "c": "This is an incorrect option. Ductile iron has high strength and toughness but inferior vibration damping compared to grey cast iron.",
+        "d": "This is an incorrect option. Malleable iron is tougher but does not provide the high damping capacity needed for heavy machinery foundations."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -61,12 +61,12 @@
         "d": "Grey iron"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is an incorrect option. Cast iron contains a high percentage of carbon (≈2–4%) and other impurities, so it is not pure iron.",
+        "b": "This is the correct option. Wrought iron contains the lowest carbon content (≈0.02–0.08%) and is the purest commercial form of iron.",
+        "c": "This is an incorrect option. Pig iron has very high carbon content (≈3.5–4.5%) and many impurities.",
+        "d": "This is an incorrect option. Grey iron is a type of cast iron with flake graphite and significant carbon content."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -78,27 +78,10 @@
         "d": "Phosphorus"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "6. Assertion: Poor machinability of grey cast iron is due to the presence of graphite flakesReason: Graphite flakes have good damping capacity and act as a chip breaker to lubricate tools and machines.",
-      "answers": {
-        "a": "Carbon",
-        "b": "Manganese",
-        "c": "Silicon",
-        "d": "Phosphorus"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This is an incorrect option. Carbon mainly influences hardness and microstructure but does not significantly improve corrosion resistance in cast iron.",
+        "b": "This is an incorrect option. Manganese primarily improves strength and hardenability and has little role in enhancing corrosion resistance.",
+        "c": "This is the correct option. Silicon improves corrosion resistance by promoting the formation of a protective silicon-rich oxide layer and stabilizing graphite in cast iron.",
+        "d": "This is an incorrect option. Phosphorus improves fluidity and wear resistance but generally reduces toughness rather than corrosion resistance."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
